@@ -75,7 +75,8 @@ section h1 {
     .div-choice {
         flex-direction: column;
         margin-left: 280px;
-        gap:47px
+        gap:47px;
+        margin-top: 13px;
         
        
     }
