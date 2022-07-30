@@ -14,20 +14,12 @@ header {
     margin-bottom: 20px;
 }
 
-header p {
-    margin: 0;
-    text-align: center;
-    font-size: 45px;
-    padding-top: 26px;
-    font-family: emoji;
-}
-
 .panthere {
     text-align: center;
-    padding: 33px 0;
+    padding: 99px 0;
 }
 .panthere img {
-    width: 350px;
+    width: 70%;
 }
 
 section h1 {
@@ -77,4 +69,15 @@ section h1 {
     background-color: #f3976c;
     color: white;
     box-shadow: 1px 5px 16px #404040;
+}
+
+@media screen and (max-width:867px) {
+    .div-choice {
+        flex-direction: column;
+        margin-left: 280px;
+        gap:47px
+        
+       
+    }
+    
 }
