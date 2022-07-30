@@ -72,10 +72,16 @@ section h1 {
 }
 
 @media screen and (max-width:867px) {
+    header {
+        margin-bottom: -40px;
+    }
+    .panthere {
+        padding: 29px 0;
+    }
     .div-choice {
         flex-direction: column;
-        margin-left: 280px;
-        gap:47px;
+        margin-left: 43px;
+        gap:16px;
         margin-top: 13px;
         
        
