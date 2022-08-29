@@ -18,7 +18,13 @@ button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
+.text-center {
+    text-align: center;
+}
 
+.tc-white {
+    color: white!important;
+}
 a:hover {
     text-decoration: none;
     cursor: pointer;
@@ -318,6 +324,7 @@ a:hover {
 
 .navbar-brand img[src$=svg] {
     min-width: 100px;
+    height: 43px;
 }
 
 .nav-center .navbar-brand img {
@@ -662,7 +669,9 @@ a {
     font-weight: 400;
     color: #575757!important;
 }
-
+label {
+    display: ;
+}
 .container {
     max-width: 1000px;
 }
@@ -692,6 +701,7 @@ p {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
+    font-size: 15px;
 }
 
 .h1 {
@@ -745,7 +755,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: white!important;
 }
 
 .portfolio-thumb {
@@ -781,10 +791,6 @@ h4 {
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
-}
-
-.tc-white {
-    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
