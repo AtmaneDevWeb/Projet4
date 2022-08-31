@@ -25,6 +25,7 @@ button {
 .tc-white {
     color: white!important;
 }
+
 a:hover {
     text-decoration: none;
     cursor: pointer;
@@ -493,6 +494,8 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    width: 48px;
+    height: 48px;
 }
 
 .icon-lg {
@@ -978,7 +981,7 @@ h4 {
     }
     .navbar-brand img {
         max-height: 40px;
-        width: auto;
+        width: 250px;
     }
     .nav-invert .navbar-header {
         float: none;
