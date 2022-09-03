@@ -7,10 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-footer .white  {
+.text-center .white  {
     color: black!important;
 }
-footer .icon-md {
+.text-center .icon-md {
     color: black!important;;
 }
 a,
@@ -491,7 +491,9 @@ button {
     text-shadow: 0 1px 0 rgba(0, 0, 1, .1);
     box-shadow: 0 1px 3px rgba(0, 0, 1, .25), inset 0 1px 0 0 rgba(255, 255, 255, .15);
 }
-
+.text-center .icon-md {
+    color:#000000;
+}
 .icon-md {
     font-size: 30px!important;
     width: 48px;
@@ -758,7 +760,7 @@ h4 {
 }
 
 .white {
-    color: white!important;
+    color: black!important;
 }
 
 .portfolio-thumb {
