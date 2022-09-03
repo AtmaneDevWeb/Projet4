@@ -7,7 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 h1.text-center.hero-bloc-text.tc-white {
-    color: white!important;
+    color: black!important;
 }
 
 h2.mg-md.text-center.tc-white {
