@@ -6,7 +6,13 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+h1.text-center.hero-bloc-text.tc-white {
+    color: white!important;
+}
 
+h2.mg-md.text-center.tc-white {
+    color: white!important;
+}
 .text-center .white  {
     color: black!important;
 }
